@@ -19,3 +19,7 @@
   
 - Create a lambda on console and set it's runtime to ```python3.11```
 - Update handler to ```lambda.lambda_handler``` in runtime settings on console
+
+## Technologies
+- Python
+- Windows Subsystem Linux (**WSL**)
